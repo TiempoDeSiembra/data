@@ -1,0 +1,4939 @@
+{
+	"_id" : "PuJak6BuAz88GrCfX",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"Xh4pT9e4czKDiswib",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"opodhSb3ZQCJ4YwXM",
+			"Mxytpev3yh2S6hiGG",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"q8QSy6a4rqBWwZosp",
+			"jjzXKdBFZrGmkuNXG",
+			"RMP635NvsEmKRBKzi"
+		]
+	},
+	"binomial" : "Beta vulgaris var. cicla",
+	"coldSupport" : NumberInt("5"),
+	"family" : "QoXoiQ5mXJ3sTdcqo",
+	"harvestTime" : {
+		"from" : NumberInt("12")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/Acelga.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/acelga/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Huertina de Toni: Como Sembrar Y Trasplantarla",
+				"url" : "https://www.youtube.com/watch?v=c5-HlReHqSk",
+				"isVideo" : true,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "infojardin.com: Acelgas",
+				"url" : "http://fichas.infojardin.com/hortalizas-verduras/acelgas-beta-vulgaris-cicla.htm",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		},
+		"ph" : {
+			"from" : 6.5,
+			"to" : 6.5
+		}
+	},
+	"name" : "Acelga",
+	"notes" : [
+		"Las raíces pueden llegar a medir hasta 90cm, por lo que es difícil su reemplazo en macetas.",
+		"Germinación alrededor de los 11 días.",
+		"Muy resistente contra plagas y enfermedades."
+	],
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("10"),
+		"to" : NumberInt("10")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("8"),
+		"plantLines" : NumberInt("45")
+	},
+	"sun" : {
+		"exposition" : NumberInt("4")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Acelga tardía",
+	"water" : {
+		"exposition" : 2.5
+	}
+},
+{
+	"_id" : "opodhSb3ZQCJ4YwXM",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"Xh4pT9e4czKDiswib",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG",
+			"8zZGrMsb9DjJ5fXyq",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"q8QSy6a4rqBWwZosp",
+			"jjzXKdBFZrGmkuNXG",
+			"RMP635NvsEmKRBKzi"
+		]
+	},
+	"binomial" : "Beta vulgaris var. cicla",
+	"coldSupport" : NumberInt("5"),
+	"family" : "QoXoiQ5mXJ3sTdcqo",
+	"harvestTime" : {
+		"from" : NumberInt("7")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/Acelga.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/acelga/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Huertina de Toni: Como Sembrar Y Trasplantarla",
+				"url" : "https://www.youtube.com/watch?v=c5-HlReHqSk",
+				"isVideo" : true,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		},
+		"ph" : {
+			"from" : 6.5,
+			"to" : 6.5
+		}
+	},
+	"name" : "Acelga",
+	"notes" : [
+		"Muy resistente contra plagas y enfermedades.",
+		"Las raíces pueden llegar a medir hasta 90cm, por lo que es difícil su reemplazo en macetas.",
+		"Germinación alrededor de los 11 días."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("4"),
+		"to" : NumberInt("4")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("8"),
+		"plantLines" : NumberInt("45")
+	},
+	"sun" : {
+		"exposition" : NumberInt("4")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Acelga temprana",
+	"water" : {
+		"exposition" : 2.5
+	}
+},
+{
+	"_id" : "YESWHTPbDQ5WCLQbn",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Avena sativa",
+	"family" : "KHYvoB8Gr2zz3S6Fj",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/avena.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Avena",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Avena común"
+},
+{
+	"_id" : "64t4vu5w6rjNcQgB7",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Brassica oleracea var. viridis",
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/Berza.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Berza",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Berza común"
+},
+{
+	"_id" : "Mxytpev3yh2S6hiGG",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			null,
+			"2oZEnN4wHDHffZ9fE",
+			"jyhmqyMemG52ETwgD",
+			"S9u9xkivtnAgnMfYv",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"kGLd8nx7XofDGEPWH",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"C4paCBjj7aomWfr5Q",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"mnSfjnffAzBSjYAqu",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"JF2xLvjRMCfBzg6am",
+			"q8QSy6a4rqBWwZosp",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H",
+			"Xi4fHfDkZrpqqNpnD"
+		]
+	},
+	"binomial" : "Allium sativum",
+	"coldSupport" : NumberInt("0"),
+	"family" : "8DgkzvCJKyPfQLGMH",
+	"harvestTime" : {
+		"from" : NumberInt("1")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/ajo.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/ajo/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Huertina de Toni: Como Sembrar Ajos",
+				"url" : "https://www.youtube.com/watch?v=XZjKMQVGgAM",
+				"isVideo" : true,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [ ],
+		"harvest" : [ ],
+		"general" : [
+			{
+				"name" : "Huertina de Toni: Cuidados Y Como Regar",
+				"url" : "https://www.youtube.com/watch?v=oiqmR6Dzf5g",
+				"isVideo" : true,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Huertina de Toni: Como Atar Los Ajos En El Huerto",
+				"url" : "https://www.youtube.com/watch?v=E5eJYwfUUp4",
+				"isVideo" : true,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Huertina de Toni: Cosecha De Ajo Gigantes",
+				"url" : "https://www.youtube.com/watch?v=BarwwoSJ6uI",
+				"isVideo" : true,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Huertina de Toni: Cortar La Flor Del Ajo",
+				"url" : "https://www.youtube.com/watch?v=s7jhQt6lNX8",
+				"isVideo" : true,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Huertina de Toni: Infusion De Ajo Contra El Pulgon",
+				"url" : "https://www.youtube.com/watch?v=vJQo4KXmGSM",
+				"isVideo" : true,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Huertina de Toni: Como Sembrar Hijuelos De Ajo",
+				"url" : "https://www.youtube.com/watch?v=hwaJPJVR46g",
+				"isVideo" : true,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Muy ligero",
+			"_ok" : false
+		}
+	},
+	"name" : "Ajo",
+	"notes" : [
+		"Se planta el bulbo. Se recomienda capa de acolchado o cobertura."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("10"),
+		"to" : NumberInt("10")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("15"),
+		"plantLines" : NumberInt("30"),
+		"seedDeep" : NumberInt("4")
+	},
+	"sun" : {
+		"exposition" : NumberInt("3"),
+		"description" : "Mucho sol"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Ajo común",
+	"water" : {
+		"description" : "Tierra húmeda, no encharcada"
+	}
+},
+{
+	"_id" : "BdZwqkpaFAa2CZ2Aj",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"XJtDvWfSbP9BKELpF",
+			"g4Wg7QHzRiH4DdJ3H"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Phaseolus vulgaris",
+	"family" : "AK89fzkceyR89cRaK",
+	"harvestTime" : {
+		"from" : NumberInt("6")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/alubia.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Alubia",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("2")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("30"),
+		"seedDeep" : NumberInt("4")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Alubia común",
+	"water" : {
+		"description" : "Suelo húmedo"
+	}
+},
+{
+	"_id" : "gogNqRuGiE6FfzYFS",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"mnSfjnffAzBSjYAqu",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"RMP635NvsEmKRBKzi",
+			"7C6fjC2v95GbbnYhq",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG",
+			"C4paCBjj7aomWfr5Q",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"PqzazyrfzRtMsCTuJ",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG"
+		]
+	},
+	"binomial" : "Apium graveolens",
+	"family" : "Ph8QF5PALediekqoH",
+	"harvestTime" : {
+		"from" : NumberInt("6")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/apio.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecohortum.com: Cómo cosechar",
+				"url" : "http://ecohortum.com/como-cultivar-apio/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Apio",
+	"notes" : [
+		"Recolección de 7 a 8 meses."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : true,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("9"),
+		"to" : NumberInt("9")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("5")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Apio común",
+	"water" : {
+		"description" : "Riego frecuente y abundante. Mantener siempre la humedad."
+	}
+},
+{
+	"_id" : "XT8FzW58W4gACbwmH",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"sHmjxFCy5X5Emw2JJ",
+			"CeQrm82vb6d3wTrBh",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"iaS4mxA94hsWavAjg"
+		]
+	},
+	"family" : "imhSRy5GPw6LrbqbZ",
+	"harvestTime" : {
+		"from" : NumberInt("4")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/Borraja.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecohortum.com: Cómo cosechar",
+				"url" : "http://ecohortum.com/como-cultivar-borraja/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Borraja",
+	"seedTime" : {
+		"from" : NumberInt("9"),
+		"to" : NumberInt("9")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("30")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Borraja común"
+},
+{
+	"_id" : "kGLd8nx7XofDGEPWH",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"Mxytpev3yh2S6hiGG"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/brocoli.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/cultivo-del-brocoli_00164",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "Wikipedia: Brassica oleracea italica",
+				"url" : "https://es.wikipedia.org/wiki/Brassica_oleracea_italica",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Brócoli",
+	"seedTime" : {
+		"from" : NumberInt("5"),
+		"to" : NumberInt("5")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("45")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Brócoli común"
+},
+{
+	"_id" : "EbiJhq93rWBw2XJw5",
+	"associations" : {
+		"ok" : [
+			"XT8FzW58W4gACbwmH",
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"3khbSEPzvWYkjgad9",
+			"PqzazyrfzRtMsCTuJ",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Xh4pT9e4czKDiswib",
+			"QiJCcutDqFTZL4eZR",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"C4paCBjj7aomWfr5Q"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"47N6SzyB69zGPweTj"
+		]
+	},
+	"binomial" : "Cucurbita maxima",
+	"family" : "BFc9D4uohFfhiqQbE",
+	"harvestTime" : {
+		"from" : NumberInt("6")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/calabaza.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecoagricultor.com: Cómo cosechar",
+				"url" : "http://www.ecoagricultor.com/cultivo-calabaza-ecologica-zapallo/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "La Huertina De Toni: Como Sembrar Calabaza Violina , Peregrina Y Luffa",
+				"url" : "https://www.youtube.com/watch?v=6bxso0rvDTs",
+				"isVideo" : true,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"name" : "La Huertina De Toni: Conseguir Semilla De Calabaza Peregrina",
+				"url" : "https://www.youtube.com/watch?v=6bxso0rvDTs",
+				"isVideo" : true,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "Wikipedia: Cucurbita maxima",
+				"url" : "https://es.wikipedia.org/wiki/Cucurbita_maxima",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Calabaza",
+	"notes" : [
+		"Germinación alrededor de 14 días."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Calabaza común",
+	"water" : {
+		"description" : "Humedad constante, no encharcar"
+	}
+},
+{
+	"_id" : "MTACrzd7tEjnBwuLA",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"coldSupport" : NumberInt("5"),
+	"family" : "ZH9wqG3KAJXbJ6Ehv",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/canonigos.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecohortum.com: Cómo cosechar",
+				"url" : "http://ecohortum.com/como-cultivar-canonigos/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Canónigo",
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Canónigo común"
+},
+{
+	"_id" : "ETFZcShvrp82hAnfZ",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"coldSupport" : NumberInt("-5"),
+	"family" : "NF3wD8r4e2Tx4qx3Y",
+	"harvestTime" : {
+		"from" : NumberInt("7")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/cardo.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "horticultura.tv: Cómo cosechar",
+				"url" : "http://www.horticultura.tv/cultivo-de-cardos/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Ligero. 75% compost",
+			"_ok" : false
+		}
+	},
+	"name" : "Cardo",
+	"notes" : [
+		"Siembra directa en clima templado.",
+		"Cuando la planta está formada, es muy resistente a frío y heladas."
+	],
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("4"),
+		"to" : NumberInt("4")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Cardo común"
+},
+{
+	"_id" : "umptDftRQyke2utRB",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "KHYvoB8Gr2zz3S6Fj",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/cebada.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Cebada",
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Cebada común"
+},
+{
+	"_id" : "QjNPigWAPk6NXfGAK",
+	"associations" : {
+		"ok" : [
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"jyhmqyMemG52ETwgD",
+			"3khbSEPzvWYkjgad9",
+			"oQgoziE3TrnfvFSTD",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"tk6Lp4Xer3hX3Qms9",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"JF2xLvjRMCfBzg6am",
+			"2oZEnN4wHDHffZ9fE",
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"47N6SzyB69zGPweTj",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H"
+		]
+	},
+	"coldSupport" : NumberInt("5"),
+	"family" : "8DgkzvCJKyPfQLGMH",
+	"harvestTime" : {
+		"from" : NumberInt("2")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/cebolla.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Cebolla",
+	"seedTime" : {
+		"from" : NumberInt("12"),
+		"to" : NumberInt("12")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Cebolla tardía"
+},
+{
+	"_id" : "ujQJ96pGk5QcvQCKd",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"EZZkcziQHibvcmYP3",
+			"jyhmqyMemG52ETwgD",
+			"3khbSEPzvWYkjgad9",
+			"oQgoziE3TrnfvFSTD",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"tk6Lp4Xer3hX3Qms9",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"JF2xLvjRMCfBzg6am",
+			"2oZEnN4wHDHffZ9fE",
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"47N6SzyB69zGPweTj",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H"
+		]
+	},
+	"family" : "8DgkzvCJKyPfQLGMH",
+	"harvestTime" : {
+		"from" : NumberInt("10")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/cebolla.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Cebolla",
+	"seedTime" : {
+		"from" : NumberInt("8"),
+		"to" : NumberInt("8")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Cebolla temprana"
+},
+{
+	"_id" : "tKofuaTmn9SEnrbDa",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"CeQrm82vb6d3wTrBh",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "8DgkzvCJKyPfQLGMH",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/cebollino.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "agromatica.es: Cómo cosechar",
+				"url" : "http://www.agromatica.es/cultivo-de-cebollino-en-el-huerto/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Cebollino anual",
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("2")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Cebollino anual común"
+},
+{
+	"_id" : "7twaZXfu9M3kkAe8A",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "KHYvoB8Gr2zz3S6Fj",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/centeno.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Centeno",
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Centeno común"
+},
+{
+	"_id" : "EZZkcziQHibvcmYP3",
+	"associations" : {
+		"ok" : [
+			null,
+			"XT8FzW58W4gACbwmH",
+			"MTACrzd7tEjnBwuLA",
+			"umptDftRQyke2utRB",
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"tKofuaTmn9SEnrbDa",
+			"rcADbCq3ppFvTWfvB",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"2rnGNELRugwYEzLXM",
+			"2oZEnN4wHDHffZ9fE",
+			"DRKyu8i8T52JwSQZY",
+			"jyhmqyMemG52ETwgD",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"G9FiZF2mJTAxaWvKh",
+			"S9u9xkivtnAgnMfYv",
+			"mnSfjnffAzBSjYAqu",
+			"PqzazyrfzRtMsCTuJ",
+			"H3C2Jh7xKgZb7CdTD",
+			"oQgoziE3TrnfvFSTD",
+			"MXysto5xto7psBS2L",
+			"Bd83d5DgrFm4DPfmg",
+			"7twaZXfu9M3kkAe8A",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"fGwi7PtYw3aHEaS9G",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"BdGgqiNWkrKp4DegX",
+			"mH6JsDeFJ7X4TyXdb",
+			"FzphjYdDtt4KGx7CS",
+			"bZZo4yYCgHtJchqcG",
+			"47N6SzyB69zGPweTj",
+			"kGLd8nx7XofDGEPWH",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"fPy3PeYbKvKgZBKTD",
+			"tk6Lp4Xer3hX3Qms9",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"ETFZcShvrp82hAnfZ",
+			"r3CRY3m3BNDykXAMj",
+			"7C6fjC2v95GbbnYhq",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"4XurnefZsEZbxnpNp",
+			"Mxytpev3yh2S6hiGG",
+			"C4paCBjj7aomWfr5Q",
+			"adtbwBF8hFxb8WXxK",
+			"BdZwqkpaFAa2CZ2Aj",
+			"YESWHTPbDQ5WCLQbn",
+			"64t4vu5w6rjNcQgB7",
+			"XKR3EcE5qPqENRoE9",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "Des9uwfQgwg4nZHBx",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/cilantro.jpg",
+	"info" : {
+		"general" : [
+			{
+				"name" : "Info",
+				"url" : "http://huertodeurbano.com/hierbasaromaticas/especias/cilantro/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : true,
+			"preferred" : "Calizo"
+		}
+	},
+	"name" : "Cilantro",
+	"notes" : [
+		"Atrae a las avejas. No sustituir por perejil."
+	],
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"sun" : {
+		"description" : "No sol pleno"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Cilantro común",
+	"water" : {
+		"description" : "Riego moderado"
+	}
+},
+{
+	"_id" : "Xi4fHfDkZrpqqNpnD",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"jyhmqyMemG52ETwgD",
+			"XJtDvWfSbP9BKELpF",
+			"G9FiZF2mJTAxaWvKh",
+			"S9u9xkivtnAgnMfYv",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"QfNybygHz7wFFGYdG",
+			"RMP635NvsEmKRBKzi",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"2oZEnN4wHDHffZ9fE",
+			"8y4tebzfgsf8CoBGE",
+			"oQgoziE3TrnfvFSTD",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"Xh4pT9e4czKDiswib",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/col.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Col",
+	"notes" : [
+		"Germinación a los ~9 días.",
+		"Transplante cuando tiene 3-4 hojas verdaderas."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Col común"
+},
+{
+	"_id" : "7kvGTBvSBpcMqC462",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"QfNybygHz7wFFGYdG",
+			"RMP635NvsEmKRBKzi",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"oQgoziE3TrnfvFSTD",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"Xh4pT9e4czKDiswib",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"harvestTime" : {
+		"from" : NumberInt("7")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/colbruselas.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "natureduca.com: Cómo cosechar",
+				"url" : "http://www.natureduca.com/agro_hort_colbruselas.php"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Col",
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Col bruselas"
+},
+{
+	"_id" : "rkeTK6D5tv7eg9zfQ",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"QfNybygHz7wFFGYdG",
+			"RMP635NvsEmKRBKzi",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"oQgoziE3TrnfvFSTD",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"Xh4pT9e4czKDiswib",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/colchina.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Col",
+	"seedTime" : {
+		"from" : NumberInt("6"),
+		"to" : NumberInt("6")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Col china"
+},
+{
+	"_id" : "3khbSEPzvWYkjgad9",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"QfNybygHz7wFFGYdG",
+			"RMP635NvsEmKRBKzi",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"oQgoziE3TrnfvFSTD",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"Xh4pT9e4czKDiswib",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/lombarda.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Col",
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Col lombarda"
+},
+{
+	"_id" : "5WphH4YEvCJwttXEe",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"QfNybygHz7wFFGYdG",
+			"RMP635NvsEmKRBKzi",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"oQgoziE3TrnfvFSTD",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"Xh4pT9e4czKDiswib",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/colmilan.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Col",
+	"seedTime" : {
+		"from" : NumberInt("5"),
+		"to" : NumberInt("5")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Col milán"
+},
+{
+	"_id" : "2oZEnN4wHDHffZ9fE",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"CeQrm82vb6d3wTrBh",
+			"RMP635NvsEmKRBKzi",
+			"7C6fjC2v95GbbnYhq",
+			"Mxytpev3yh2S6hiGG"
+		],
+		"no" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"mnSfjnffAzBSjYAqu",
+			"47N6SzyB69zGPweTj",
+			"Xi4fHfDkZrpqqNpnD"
+		]
+	},
+	"coldSupport" : NumberInt("5"),
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/coliflor.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/el-cultivo-de-la-coliflor_00161"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Coliflor",
+	"seedTime" : {
+		"from" : NumberInt("5"),
+		"to" : NumberInt("5")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Coliflor común"
+},
+{
+	"_id" : "fGwi7PtYw3aHEaS9G",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"q8QSy6a4rqBWwZosp"
+		]
+	},
+	"family" : "AK89fzkceyR89cRaK",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/soja.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Soja",
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Soja común"
+},
+{
+	"_id" : "Bd83d5DgrFm4DPfmg",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "KHYvoB8Gr2zz3S6Fj",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/trigo.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Trigo",
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Trigo común"
+},
+{
+	"_id" : "S9u9xkivtnAgnMfYv",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"jyhmqyMemG52ETwgD",
+			"q8QSy6a4rqBWwZosp",
+			"QfNybygHz7wFFGYdG",
+			"RMP635NvsEmKRBKzi",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"47N6SzyB69zGPweTj",
+			"iaS4mxA94hsWavAjg",
+			"8zZGrMsb9DjJ5fXyq"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/nabos.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Nabo",
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Nabo común"
+},
+{
+	"_id" : "DRKyu8i8T52JwSQZY",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "NF3wD8r4e2Tx4qx3Y",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/endivia.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecohortum.com: Cómo cosechar",
+				"url" : "http://ecohortum.com/como-cultivar-endivias/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Endívia",
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Endívia común"
+},
+{
+	"_id" : "jyhmqyMemG52ETwgD",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"S9u9xkivtnAgnMfYv",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"q8QSy6a4rqBWwZosp",
+			"RMP635NvsEmKRBKzi",
+			"7C6fjC2v95GbbnYhq",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"coldSupport" : NumberInt("5"),
+	"family" : "NF3wD8r4e2Tx4qx3Y",
+	"harvestTime" : {
+		"from" : NumberInt("9")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/escarola.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/como-cultivar-escarola-en-nuestro-huerto_00308"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Escarola",
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("2")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Escarola común"
+},
+{
+	"_id" : "RMP635NvsEmKRBKzi",
+	"associations" : {
+		"ok" : [
+			"XT8FzW58W4gACbwmH",
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"2oZEnN4wHDHffZ9fE",
+			"jyhmqyMemG52ETwgD",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"S9u9xkivtnAgnMfYv",
+			"mnSfjnffAzBSjYAqu",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"Xh4pT9e4czKDiswib",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		]
+	},
+	"binomial" : "Spinacia oleracea",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/espinacas.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/espinaca/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Tierra húmeda, no encharcada",
+			"_ok" : false
+		},
+		"ph" : {
+			"from" : NumberInt("6"),
+			"to" : 6.5
+		}
+	},
+	"name" : "Espinaca",
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"spaccing" : {
+		"seed" : NumberInt("10"),
+		"plantLines" : NumberInt("30"),
+		"seedDeep" : NumberInt("2")
+	},
+	"sun" : {
+		"description" : "Tolera muy bien la sombra"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.414+01:00"),
+	"variant" : "Espinaca común"
+},
+{
+	"_id" : "Eso57cNxFZ3r2Ebdt",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"jyhmqyMemG52ETwgD",
+			"XJtDvWfSbP9BKELpF",
+			"G9FiZF2mJTAxaWvKh",
+			"q8QSy6a4rqBWwZosp",
+			"g4Wg7QHzRiH4DdJ3H",
+			"RMP635NvsEmKRBKzi",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Mxytpev3yh2S6hiGG"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"3khbSEPzvWYkjgad9",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Xi4fHfDkZrpqqNpnD"
+		]
+	},
+	"family" : "m34eMNXq8yJS3Aqso",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/fresabosque.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Fresa",
+	"seedTime" : {
+		"from" : NumberInt("7"),
+		"to" : NumberInt("7")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Fresa del bosque"
+},
+{
+	"_id" : "sHmjxFCy5X5Emw2JJ",
+	"associations" : {
+		"ok" : [
+			"XT8FzW58W4gACbwmH",
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"jyhmqyMemG52ETwgD",
+			"XJtDvWfSbP9BKELpF",
+			"G9FiZF2mJTAxaWvKh",
+			"q8QSy6a4rqBWwZosp",
+			"g4Wg7QHzRiH4DdJ3H",
+			"RMP635NvsEmKRBKzi",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Mxytpev3yh2S6hiGG",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"3khbSEPzvWYkjgad9",
+			"MXysto5xto7psBS2L",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Xi4fHfDkZrpqqNpnD"
+		]
+	},
+	"family" : "m34eMNXq8yJS3Aqso",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/freson.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "hogarmania.com: Cómo cosechar",
+				"url" : "http://www.hogarmania.com/jardineria/mantenimiento/huerta/201309/plantar-fresa-fresones-huerta-21411.html"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Fresón",
+	"seedTime" : {
+		"from" : NumberInt("4"),
+		"to" : NumberInt("4")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Fresón común"
+},
+{
+	"_id" : "rcADbCq3ppFvTWfvB",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"q8QSy6a4rqBWwZosp",
+			"g4Wg7QHzRiH4DdJ3H"
+		]
+	},
+	"family" : "AK89fzkceyR89cRaK",
+	"harvestTime" : {
+		"from" : NumberInt("3")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/garbanzos.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Garbanzo",
+	"seedTime" : {
+		"from" : NumberInt("1"),
+		"to" : NumberInt("1")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Garbanzo común"
+},
+{
+	"_id" : "BdGgqiNWkrKp4DegX",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "NF3wD8r4e2Tx4qx3Y",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/girasol.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Girasol",
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Girasol común"
+},
+{
+	"_id" : "JF2xLvjRMCfBzg6am",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"S9u9xkivtnAgnMfYv",
+			"PqzazyrfzRtMsCTuJ",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"tk6Lp4Xer3hX3Qms9",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"adtbwBF8hFxb8WXxK",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"8y4tebzfgsf8CoBGE",
+			"q8QSy6a4rqBWwZosp",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "AK89fzkceyR89cRaK",
+	"harvestTime" : {
+		"from" : NumberInt("3")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/guisantes.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/cultivo-del-guisante_00176"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Guisante",
+	"notes" : [
+		"Siembra en líneas"
+	],
+	"seedTime" : {
+		"from" : NumberInt("10"),
+		"to" : NumberInt("10")
+	},
+	"spaccing" : {
+		"plantLines" : NumberInt("50"),
+		"seedDeep" : NumberInt("4")
+	},
+	"sun" : {
+		"description" : "No soporta el calor en exceso ni el tiempo seco"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Guisante común",
+	"water" : {
+		"description" : "Tierra húmeda, no encharcada"
+	}
+},
+{
+	"_id" : "mnSfjnffAzBSjYAqu",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"PqzazyrfzRtMsCTuJ",
+			"47N6SzyB69zGPweTj",
+			"gogNqRuGiE6FfzYFS",
+			"RMP635NvsEmKRBKzi",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"adtbwBF8hFxb8WXxK"
+		],
+		"no" : [
+			"2oZEnN4wHDHffZ9fE",
+			"8y4tebzfgsf8CoBGE",
+			"q8QSy6a4rqBWwZosp",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "AK89fzkceyR89cRaK",
+	"harvestTime" : {
+		"from" : NumberInt("2")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/habas.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "elhuertourbano.net: Cómo cosechar",
+				"url" : "http://www.elhuertourbano.net/hortalizas/cuando-y-como-sembrar-las-habas/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "50% sustrato de plantación, 50% tierra"
+		}
+	},
+	"name" : "Haba",
+	"notes" : [
+		"Remojo 24h antes de sembrar"
+	],
+	"seedTime" : {
+		"from" : NumberInt("8"),
+		"to" : NumberInt("8")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("65"),
+		"seedDeep" : NumberInt("5")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Haba común"
+},
+{
+	"_id" : "8y4tebzfgsf8CoBGE",
+	"associations" : {
+		"no" : [
+			null,
+			"XT8FzW58W4gACbwmH",
+			"MTACrzd7tEjnBwuLA",
+			"umptDftRQyke2utRB",
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"tKofuaTmn9SEnrbDa",
+			"EZZkcziQHibvcmYP3",
+			"rcADbCq3ppFvTWfvB",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"2rnGNELRugwYEzLXM",
+			"2oZEnN4wHDHffZ9fE",
+			"DRKyu8i8T52JwSQZY",
+			"jyhmqyMemG52ETwgD",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"G9FiZF2mJTAxaWvKh",
+			"S9u9xkivtnAgnMfYv",
+			"mnSfjnffAzBSjYAqu",
+			"PqzazyrfzRtMsCTuJ",
+			"H3C2Jh7xKgZb7CdTD",
+			"oQgoziE3TrnfvFSTD",
+			"MXysto5xto7psBS2L",
+			"Bd83d5DgrFm4DPfmg",
+			"7twaZXfu9M3kkAe8A",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"fGwi7PtYw3aHEaS9G",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"BdGgqiNWkrKp4DegX",
+			"mH6JsDeFJ7X4TyXdb",
+			"FzphjYdDtt4KGx7CS",
+			"bZZo4yYCgHtJchqcG",
+			"47N6SzyB69zGPweTj",
+			"kGLd8nx7XofDGEPWH",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"fPy3PeYbKvKgZBKTD",
+			"tk6Lp4Xer3hX3Qms9",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"ETFZcShvrp82hAnfZ",
+			"r3CRY3m3BNDykXAMj",
+			"7C6fjC2v95GbbnYhq",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"4XurnefZsEZbxnpNp",
+			"Mxytpev3yh2S6hiGG",
+			"C4paCBjj7aomWfr5Q",
+			"adtbwBF8hFxb8WXxK",
+			"BdZwqkpaFAa2CZ2Aj",
+			"YESWHTPbDQ5WCLQbn",
+			"64t4vu5w6rjNcQgB7",
+			"XKR3EcE5qPqENRoE9",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		]
+	},
+	"family" : "Ph8QF5PALediekqoH",
+	"harvestTime" : {
+		"from" : NumberInt("6")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/hinojo.jpg",
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Hinojo",
+	"seedTime" : {
+		"from" : NumberInt("5"),
+		"to" : NumberInt("5")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.414+01:00"),
+	"variant" : "Hinojo común"
+},
+{
+	"_id" : "XJtDvWfSbP9BKELpF",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"PqzazyrfzRtMsCTuJ",
+			"MXysto5xto7psBS2L",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"Xi4fHfDkZrpqqNpnD",
+			"BdZwqkpaFAa2CZ2Aj",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"rcADbCq3ppFvTWfvB",
+			"8y4tebzfgsf8CoBGE",
+			"3khbSEPzvWYkjgad9",
+			"S9u9xkivtnAgnMfYv",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"q8QSy6a4rqBWwZosp",
+			"46vMpi6kMb4ZLxydG",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"family" : "AK89fzkceyR89cRaK",
+	"harvestTime" : {
+		"from" : NumberInt("11")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/judia.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/cultivo-de-la-judia_00188"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Judía",
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("2")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Judía enana"
+},
+{
+	"_id" : "g4Wg7QHzRiH4DdJ3H",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"PqzazyrfzRtMsCTuJ",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"gogNqRuGiE6FfzYFS",
+			"iaS4mxA94hsWavAjg",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"7C6fjC2v95GbbnYhq",
+			"Xi4fHfDkZrpqqNpnD",
+			"BdZwqkpaFAa2CZ2Aj",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"rcADbCq3ppFvTWfvB",
+			"8y4tebzfgsf8CoBGE",
+			"QfNybygHz7wFFGYdG",
+			"Mxytpev3yh2S6hiGG"
+		]
+	},
+	"binomial" : "Phaseolus vulgaris var. vulgaris",
+	"family" : "AK89fzkceyR89cRaK",
+	"harvestTime" : {
+		"from" : NumberInt("10")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/judia.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/cultivo-de-la-judia_00188",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Judía",
+	"notes" : [
+		"Siembra en marzo sólo en climas cálidos.",
+		"En climas fríos esperar a finales de abril o bien proteger del frío."
+	],
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Judía enrame"
+},
+{
+	"_id" : "SQtaAbttAgm6NMdnp",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"S9u9xkivtnAgnMfYv",
+			"mnSfjnffAzBSjYAqu",
+			"PqzazyrfzRtMsCTuJ",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"jjzXKdBFZrGmkuNXG",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"tk6Lp4Xer3hX3Qms9",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"nGjLafpgb878LGJkS",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG",
+			"adtbwBF8hFxb8WXxK",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"gogNqRuGiE6FfzYFS"
+		]
+	},
+	"coldSupport" : NumberInt("5"),
+	"family" : "NF3wD8r4e2Tx4qx3Y",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/lechuga.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Lechuga",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("8"),
+		"to" : NumberInt("8")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Lechuga invierno"
+},
+{
+	"_id" : "46vMpi6kMb4ZLxydG",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"3khbSEPzvWYkjgad9",
+			"S9u9xkivtnAgnMfYv",
+			"mnSfjnffAzBSjYAqu",
+			"PqzazyrfzRtMsCTuJ",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"jjzXKdBFZrGmkuNXG",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"tk6Lp4Xer3hX3Qms9",
+			"RMP635NvsEmKRBKzi",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG",
+			"adtbwBF8hFxb8WXxK",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"gogNqRuGiE6FfzYFS"
+		]
+	},
+	"family" : "NF3wD8r4e2Tx4qx3Y",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/lechuga.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Lechuga",
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Lechuga primavera"
+},
+{
+	"_id" : "ap3WyBzkRQAteaPS7",
+	"createdAt" : ISODate("2017-01-19T20:27:57.407+01:00"),
+	"family" : "htWxy9sP9AfMMWqyP",
+	"harvestTime" : {
+		"from" : NumberInt("4")
+	},
+	"highlightedImage" : "https://tiempodesiembra-app.s3.amazonaws.com/seeds/tomate_tres_cantos.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Tomate",
+	"notes" : [
+		"Trasplantar al marco de 40 x 70 cms. cuando las plantas tienen 3 ó 4 hojas",
+		"Riegos frecuentes y copiosos en el trasplante y cuando empiezan a madurar los frutos conviene podar los.tallos y brotes que la planta produce en exceso."
+	],
+	"seedTime" : {
+		"from" : NumberInt("12"),
+		"to" : NumberInt("2")
+	},
+	"spaccing" : {
+		"plantLines" : NumberInt("65")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Tomate tres cantos"
+},
+{
+	"_id" : "nGjLafpgb878LGJkS",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"PqzazyrfzRtMsCTuJ",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Cucumis melo",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/melon.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/melon/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"name" : "infoagro.com: El cultivo del melón. 1ª parte.",
+				"url" : "http://www.infoagro.com/frutas/frutas_tradicionales/melon.htm",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "Wikipedia: Cucumis melo",
+				"url" : "https://es.wikipedia.org/wiki/Cucumis_melo",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		},
+		"ph" : {
+			"from" : NumberInt("7"),
+			"to" : NumberInt("9")
+		}
+	},
+	"name" : "Melón",
+	"notes" : [
+		"Hasta 6 semillas juntas",
+		"Germina entre 10 y 12 días.",
+		"Transplantar cuando tiene ~5 hojas."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("1"),
+		"to" : NumberInt("1")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("120"),
+		"seedDeep" : NumberInt("15")
+	},
+	"sun" : {
+		"exposition" : NumberInt("5"),
+		"description" : "A pleno sol"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Melón común",
+	"water" : {
+		"description" : "Mucha agua constante. No encharcar"
+	}
+},
+{
+	"_id" : "H3C2Jh7xKgZb7CdTD",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "AK89fzkceyR89cRaK",
+	"harvestTime" : {
+		"from" : NumberInt("3")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/lenteja.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "tuhuertoencasa.net: Cómo cosechar",
+				"url" : "http://www.tuhuertoencasa.net/plantas/como-sembrar-plantar-cultivar-lentejas-en-el-huerto/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Lenteja",
+	"seedTime" : {
+		"from" : NumberInt("10"),
+		"to" : NumberInt("10")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("10")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Lenteja común",
+	"water" : {
+		"description" : "Abundante en la plantación. Después lo normal."
+	}
+},
+{
+	"_id" : "PqzazyrfzRtMsCTuJ",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"XJtDvWfSbP9BKELpF",
+			"mnSfjnffAzBSjYAqu",
+			"oQgoziE3TrnfvFSTD",
+			"47N6SzyB69zGPweTj",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"tk6Lp4Xer3hX3Qms9",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"QfNybygHz7wFFGYdG"
+		]
+	},
+	"family" : "KHYvoB8Gr2zz3S6Fj",
+	"harvestTime" : {
+		"from" : NumberInt("7")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/maiz.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/cultivo-del-maiz_00171"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Maíz",
+	"notes" : [
+		"2 ó 3 semillas juntas"
+	],
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"spaccing" : {
+		"seedDeep" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Maíz común"
+},
+{
+	"_id" : "oQgoziE3TrnfvFSTD",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"PqzazyrfzRtMsCTuJ",
+			"CeQrm82vb6d3wTrBh",
+			"jjzXKdBFZrGmkuNXG",
+			"Xh4pT9e4czKDiswib",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			null,
+			"8y4tebzfgsf8CoBGE",
+			"3khbSEPzvWYkjgad9",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"Xi4fHfDkZrpqqNpnD"
+		]
+	},
+	"coldSupport" : NumberInt("11"),
+	"family" : "Ph8QF5PALediekqoH",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/perejil.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecoagricultor.com: Cómo cosechar",
+				"url" : "http://www.ecoagricultor.com/consejos-para-plantar-perejil/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Perejil",
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Perejil común"
+},
+{
+	"_id" : "Xh4pT9e4czKDiswib",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"oQgoziE3TrnfvFSTD",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"RMP635NvsEmKRBKzi",
+			"EbiJhq93rWBw2XJw5",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Mxytpev3yh2S6hiGG",
+			"C4paCBjj7aomWfr5Q",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"3khbSEPzvWYkjgad9",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"47N6SzyB69zGPweTj",
+			"Xi4fHfDkZrpqqNpnD"
+		]
+	},
+	"binomial" : "Capsicum annuum var. annuum",
+	"family" : "htWxy9sP9AfMMWqyP",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/pimiento.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "bayergarden.es: Cómo cosechar",
+				"url" : "http://www.bayergarden.es/Cuida-de-tus-plantas/Huerto-en-casa/Cultivar-Pimientos",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Pimiento",
+	"notes" : [
+		"Germinación entre 3 y 6 días.",
+		"Transplante a los 60/70 días (altura entre 12 y 15 cm)"
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("1"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Pimiento común"
+},
+{
+	"_id" : "q8QSy6a4rqBWwZosp",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"jyhmqyMemG52ETwgD",
+			"S9u9xkivtnAgnMfYv",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"jjzXKdBFZrGmkuNXG",
+			"Xh4pT9e4czKDiswib",
+			"QfNybygHz7wFFGYdG",
+			"RMP635NvsEmKRBKzi",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"rcADbCq3ppFvTWfvB",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"XJtDvWfSbP9BKELpF",
+			"mnSfjnffAzBSjYAqu",
+			"fGwi7PtYw3aHEaS9G",
+			"Mxytpev3yh2S6hiGG",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "8DgkzvCJKyPfQLGMH",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/puerro.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/puerro/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Puerro",
+	"notes" : [
+		"Transplantar a los 2 meses y medio de siembra, o bien cuando la planta tenga unos 20 cm de altura."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"spaccing" : {
+		"seed" : NumberInt("15"),
+		"plantLines" : NumberInt("15")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.414+01:00"),
+	"variant" : "Puerro común"
+},
+{
+	"_id" : "5sfY39eGPHW5FJseA",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"XJtDvWfSbP9BKELpF",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"RMP635NvsEmKRBKzi",
+			"r3CRY3m3BNDykXAMj",
+			"7C6fjC2v95GbbnYhq",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"adtbwBF8hFxb8WXxK",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"2oZEnN4wHDHffZ9fE",
+			"8y4tebzfgsf8CoBGE",
+			"3khbSEPzvWYkjgad9",
+			"S9u9xkivtnAgnMfYv",
+			"MXysto5xto7psBS2L",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"q8QSy6a4rqBWwZosp",
+			"fPy3PeYbKvKgZBKTD",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"Xi4fHfDkZrpqqNpnD"
+		]
+	},
+	"coldSupport" : NumberInt("0"),
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/rabano.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/rabano/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		},
+		"ph" : {
+			"from" : NumberInt("6"),
+			"to" : NumberInt("8")
+		}
+	},
+	"name" : "Rábano",
+	"spaccing" : {
+		"plant" : NumberInt("5"),
+		"plantLines" : NumberInt("5")
+	},
+	"sun" : {
+		"description" : "Prevenir sombra"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Rábano común",
+	"water" : {
+		"description" : "Suelo constántemente húmedo"
+	}
+},
+{
+	"_id" : "QfNybygHz7wFFGYdG",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"S9u9xkivtnAgnMfYv",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"q8QSy6a4rqBWwZosp",
+			"iaS4mxA94hsWavAjg",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"PqzazyrfzRtMsCTuJ",
+			"CeQrm82vb6d3wTrBh",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H",
+			"8zZGrMsb9DjJ5fXyq"
+		]
+	},
+	"binomial" : "Beta vulgaris",
+	"coldSupport" : NumberInt("5"),
+	"family" : "QoXoiQ5mXJ3sTdcqo",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/romalacha.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/betarraga/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Ecohortum: Cómo cultivar remolacha",
+				"url" : "http://ecohortum.com/como-cultivar-remolacha/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Suelo fértil y con mucho potasio",
+			"_ok" : true
+		}
+	},
+	"name" : "Remolacha",
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : true,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"spaccing" : {
+		"plantLines" : NumberInt("25"),
+		"seedDeep" : NumberInt("2")
+	},
+	"sun" : {
+		"description" : "Sol-sombra. 15 a 18º"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Remolacha común"
+},
+{
+	"_id" : "MXysto5xto7psBS2L",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"XJtDvWfSbP9BKELpF",
+			"CeQrm82vb6d3wTrBh"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"sHmjxFCy5X5Emw2JJ"
+		]
+	},
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/repollo.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/col-repollo/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Repollo",
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Repollo común"
+},
+{
+	"_id" : "FzphjYdDtt4KGx7CS",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "gQup9C7uryAmzKr4t",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/salsifi.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "horticultura.tv: Cómo cosechar",
+				"url" : "http://www.horticultura.tv/cultivo-de-salsifi/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Salsífi",
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Salsífi común"
+},
+{
+	"_id" : "CeQrm82vb6d3wTrBh",
+	"associations" : {
+		"ok" : [
+			null,
+			"XT8FzW58W4gACbwmH",
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"tKofuaTmn9SEnrbDa",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"2oZEnN4wHDHffZ9fE",
+			"XJtDvWfSbP9BKELpF",
+			"oQgoziE3TrnfvFSTD",
+			"MXysto5xto7psBS2L",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"jjzXKdBFZrGmkuNXG",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"RMP635NvsEmKRBKzi",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Mxytpev3yh2S6hiGG",
+			"C4paCBjj7aomWfr5Q",
+			"8zZGrMsb9DjJ5fXyq",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			null,
+			null,
+			null,
+			"8y4tebzfgsf8CoBGE",
+			"3khbSEPzvWYkjgad9",
+			"PqzazyrfzRtMsCTuJ",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"47N6SzyB69zGPweTj",
+			"QfNybygHz7wFFGYdG",
+			"Xi4fHfDkZrpqqNpnD"
+		]
+	},
+	"family" : "htWxy9sP9AfMMWqyP",
+	"harvestTime" : {
+		"from" : NumberInt("3")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/tomate.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertoencasa.org: Cómo cosechar",
+				"url" : "http://huertoencasa.org/el-tomate/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Tomate",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("12"),
+		"to" : NumberInt("12")
+	},
+	"spaccing" : {
+		"plant" : NumberInt("40")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Tomate común"
+},
+{
+	"_id" : "G9FiZF2mJTAxaWvKh",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"Eso57cNxFZ3r2Ebdt",
+			"sHmjxFCy5X5Emw2JJ",
+			"7C6fjC2v95GbbnYhq",
+			"Xi4fHfDkZrpqqNpnD"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"family" : "QyedutxBANG2dkd4M",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/tomillo.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecoagricultor.com: Cómo cosechar",
+				"url" : "http://www.ecoagricultor.com/consejos-para-el-cultivo-del-tomillo/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Seco / calizo / rocoso. Muy drenado"
+		}
+	},
+	"name" : "Tomillo",
+	"seedTime" : {
+		"from" : NumberInt("9"),
+		"to" : NumberInt("9")
+	},
+	"spaccing" : {
+		"plant" : NumberInt("45")
+	},
+	"sun" : {
+		"description" : "Sol. Sombra ligera"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Tomillo común"
+},
+{
+	"_id" : "8zZGrMsb9DjJ5fXyq",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"tKofuaTmn9SEnrbDa",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"PqzazyrfzRtMsCTuJ",
+			"oQgoziE3TrnfvFSTD",
+			"sHmjxFCy5X5Emw2JJ",
+			"47N6SzyB69zGPweTj",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"RMP635NvsEmKRBKzi",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"S9u9xkivtnAgnMfYv",
+			"QfNybygHz7wFFGYdG"
+		]
+	},
+	"binomial" : "Daucus carota",
+	"coldSupport" : NumberInt("5"),
+	"family" : "Ph8QF5PALediekqoH",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/zanahoria.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/zanahoria/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Zanahoria",
+	"notes" : [
+		"Se recomienda plantar a 70 cm aproximadamente de los ajos para prevenir la mosca.",
+		"En climas fríos no se recomienda plantar hasta marzo.",
+		"Humedecer semilla durante 1h:30 antes de plantar"
+	],
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("3")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("7"),
+		"plantLines" : NumberInt("30")
+	},
+	"sun" : {
+		"description" : "Sol todo el día"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.349+01:00"),
+	"variant" : "Zanahoria común",
+	"water" : {
+		"description" : "Riego 1 / semana. Abundante."
+	}
+},
+{
+	"_id" : "bZZo4yYCgHtJchqcG",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"harvestTime" : {
+		"from" : NumberInt("4")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/setas.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "agrohuerto.com: Cómo cosechar",
+				"url" : "http://www.agrohuerto.com/como-cultivar-setas-en-casa/"
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Setas y hongos",
+	"notes" : [
+		"4 ó 5 semillas juntas"
+	],
+	"seedTime" : {
+		"from" : NumberInt("9"),
+		"to" : NumberInt("9")
+	},
+	"spaccing" : {
+		"plant" : NumberInt("100"),
+		"seedDeep" : NumberInt("2")
+	},
+	"sun" : {
+		"exposition" : NumberInt("2")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Setas y hongos comunes",
+	"water" : {
+		"description" : "Mucha humedad. Riego pulverizado"
+	}
+},
+{
+	"_id" : "47N6SzyB69zGPweTj",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"mnSfjnffAzBSjYAqu",
+			"PqzazyrfzRtMsCTuJ",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"7C6fjC2v95GbbnYhq",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"2oZEnN4wHDHffZ9fE",
+			"8y4tebzfgsf8CoBGE",
+			"3khbSEPzvWYkjgad9",
+			"S9u9xkivtnAgnMfYv",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"CeQrm82vb6d3wTrBh",
+			"jjzXKdBFZrGmkuNXG",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"r3CRY3m3BNDykXAMj",
+			"Xi4fHfDkZrpqqNpnD",
+			"C4paCBjj7aomWfr5Q"
+		]
+	},
+	"coldSupport" : NumberInt("10"),
+	"family" : "htWxy9sP9AfMMWqyP",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/patata.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "huertodeurbano.com: Cómo cosechar",
+				"url" : "http://huertodeurbano.com/como-cultivar/papas-o-patatas/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Franjavio: Siembra sobre acolchado (1/2)",
+				"url" : "http://elhuertodefranjavio.blogspot.com.es/2013/03/experimento-patatero.html",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "Franjavio: Siembra sobre acolchado (2/2)",
+				"url" : "http://elhuertodefranjavio.blogspot.com.es/2013/07/experimento-patatero-el-resultado.html",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Tolera bien tierras ácidas"
+		},
+		"ph" : {
+			"from" : 4.6,
+			"to" : NumberInt("6")
+		}
+	},
+	"name" : "Patata",
+	"notes" : [
+		"45 kg de estiércol m2 al otoño anterior a plantar. Ideal plantar el propio tubérculo, NO enfermo"
+	],
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("75"),
+		"plantLines" : NumberInt("38")
+	},
+	"sun" : {
+		"description" : "Mucho sol, poco calor"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Patata común",
+	"water" : {
+		"description" : "Riego ~3 veces / semana. Aumentar cuando florecen."
+	}
+},
+{
+	"_id" : "c8ZXG57XGdGNCriHD",
+	"createdAt" : ISODate("2017-01-19T20:40:32.968+01:00"),
+	"family" : "htWxy9sP9AfMMWqyP",
+	"harvestTime" : {
+		"from" : NumberInt("7")
+	},
+	"highlightedImage" : "https://tiempodesiembra-app.s3.amazonaws.com/seeds/pimiento_padron.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"name" : "Ella Hoy: Siembra en maceta",
+				"url" : "http://www.ellahoy.es/ocio/articulo/como-cultivar-pimientos-de-padron-en-macetas-es-muy-facil/198783/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false
+		}
+	},
+	"name" : "Pimiento",
+	"notes" : [
+		"No soporta las temperaturas bajas",
+		"Reservar parcelas sanas, profundas, ricas y no encharcadizas, de textura ligera o franca y que drenen bien para que no haya problemas sanitarios en la zona del cuello y radicular. También se aconseja dejar varios años sin cultivar pimientos en una misma parcela.",
+		"Es un planta que se da bien en climas cálidos, por lo que se ha adaptado perfectamente al cultivo en invernadero. Su desarrollo óptimo se da entre 16 y 25ºC. Por debajo de 15ºC su crecimiento se ve afectado y por debajo de 10ºC deja de crecer. Por encima de 35ºC puede haber caída de flores.",
+		"Elegir la variedad más idónea con relación al uso que deseemos: Asar, ensalada, freír, rellenos, salsas, condimento, etc.",
+		"El abonado debe ser de fondo y después en cobertera con abonados ricos en Nitrógeno, Potasio y microelementos.",
+		"La siembra se realiza en semilleros de bandejas principalmente, y la siembra directa se utiliza algunas veces para cultivares industriales (2-3 Kg/ha de semilla). Para este cultivo es muy importante la desinfección y la realización de tratamientos para evitar problemas criptogámicos en las primeras fases.",
+		"El marco de plantación oscila entre 40-50 cm. entre plantas y 70-90 cm. entre líneas.",
+		"Una vez regado y con las plantas ya arraigadas se aporca para que el riego ( si es a manta) no moje la base del tallo, y provoque enfermedades.",
+		"El riego por goteo es muy adecuado para evitar problemas de encharcamientos",
+		"El problema fitosanitario más importante es la \"tristeza del pimiento\" que según determinados sintomas externos se trata de diferente plaga: Phytophtora capsici(mildiu) Ataque por líneas con marchitamiento brusco y total, y con escasa defoliación. Verticillium dahliae (Verticilium) Ataque por rodales, marchitamiento progresivo a veces unilateral, defoliación acusada y oscurecimiento de los haces vasculares con progresión lenta en la parcela. Por ultimo está la Asfixia Radicular donde el ataque es por rodales, defoliación irregular, desecación de la parte interna del tallo y pudrición de las raicillas.",
+		"Para favorecer el cuajado sobre todo en invernaderos y túneles es deseable airear lo máximo el cultivo aunque sea artificialmente, disminuir el Nitrógeno e incrementar el Fosforo, Potasio y Magnesio, Eliminar el blanqueo de invernaderos para que haya más luz y disminuir el volumen del agua de riego. Con todo esto se provoca un stress que favorece el cuajado, pero volver al cultivo normal cuando haya una carga razonable, pues podría haber caída de flores.",
+		"Recolectar conforme maduren los frutos."
+	],
+	"seedTime" : {
+		"from" : NumberInt("11"),
+		"to" : NumberInt("5")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Pimiento de padrón"
+},
+{
+	"_id" : "rYqLfvAvFj9B86PF4",
+	"createdAt" : ISODate("2017-01-19T20:45:06.809+01:00"),
+	"family" : "htWxy9sP9AfMMWqyP",
+	"harvestTime" : {
+		"from" : NumberInt("6")
+	},
+	"highlightedImage" : "https://tiempodesiembra-app.s3.amazonaws.com/seeds/pimiento_reus.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Pimiento",
+	"notes" : [
+		"Muy dulce y apreciado por sus muchas aplicaciones culinarias.",
+		"Se siembra de Enero a Mayo, en semillero, en cama caliente o en sitios totalmente resguardados de los fríos. Se trasplanta al marco de 60x40 cms. cuando las plantas tengan el enraizamiento y tamaño adecuados.",
+		"Necesita terreno bien preparado y estercolado."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("1"),
+		"to" : NumberInt("5")
+	},
+	"spaccing" : {
+		"plantLines" : NumberInt("40")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Pimiento largo Reus"
+},
+{
+	"_id" : "QkLpaYLR9ghrqXssn",
+	"createdAt" : ISODate("2017-01-19T20:51:38.999+01:00"),
+	"family" : "8DgkzvCJKyPfQLGMH",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://tiempodesiembra-app.s3.amazonaws.com/seeds/cebolla_amposta.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Cebolla",
+	"notes" : [
+		"Se siembra en semillero de Enero a Marzo, según climas trasplantar al marco de 40x15 cms. Cuando las plantitas tienen el grosor de un lápiz o unos 15 cms. de altura puede hacerse siembra directa a 6-8 kg/Ha.",
+		"Variedad de gran conservación. Bulbos de tamaño grande, globoso, de carne muy compacta y sabor algo picante. Color amoratado en su exterior y sus capas interiores morado suave. Su cultivo se incrementa cada vez más por su aceptación en el mercado nacional y para la exportación."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("1"),
+		"to" : NumberInt("3")
+	},
+	"spaccing" : {
+		"plant" : NumberInt("40"),
+		"plantLines" : NumberInt("15")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Cebolla morada de Amposta"
+},
+{
+	"_id" : "iaS4mxA94hsWavAjg",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"XJtDvWfSbP9BKELpF",
+			"PqzazyrfzRtMsCTuJ",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"jjzXKdBFZrGmkuNXG",
+			"g4Wg7QHzRiH4DdJ3H",
+			"QfNybygHz7wFFGYdG",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG",
+			"C4paCBjj7aomWfr5Q",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"XT8FzW58W4gACbwmH",
+			"8y4tebzfgsf8CoBGE",
+			"S9u9xkivtnAgnMfYv",
+			"47N6SzyB69zGPweTj",
+			"QiJCcutDqFTZL4eZR",
+			"7C6fjC2v95GbbnYhq"
+		]
+	},
+	"coldSupport" : NumberInt("15"),
+	"family" : "BFc9D4uohFfhiqQbE",
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/pepino.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Pepino",
+	"notes" : [
+		"Muy sensible al frío."
+	],
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Pepino común"
+},
+{
+	"_id" : "aSLCg7vFp6P4c6YjX",
+	"binomial" : "Raphanus sativus",
+	"createdAt" : ISODate("2017-03-04T20:02:20.063+01:00"),
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/rabanitos.jpg",
+	"info" : {
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seeding" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Rábano",
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Rábano común"
+},
+{
+	"_id" : "jjzXKdBFZrGmkuNXG",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"oQgoziE3TrnfvFSTD",
+			"CeQrm82vb6d3wTrBh",
+			"q8QSy6a4rqBWwZosp",
+			"iaS4mxA94hsWavAjg",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"C4paCBjj7aomWfr5Q"
+		],
+		"no" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"8y4tebzfgsf8CoBGE",
+			"47N6SzyB69zGPweTj",
+			"QfNybygHz7wFFGYdG",
+			"Mxytpev3yh2S6hiGG",
+			"opodhSb3ZQCJ4YwXM",
+			"PuJak6BuAz88GrCfX"
+		]
+	},
+	"binomial" : "Asparagus officinalis",
+	"family" : "8DgkzvCJKyPfQLGMH",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/esparragos.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "todohuertoyjardin.es: Cómo cosechar",
+				"url" : "http://www.todohuertoyjardin.es/blog/como-plantar-los-esparragos-trigueros",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Espárrago",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("3")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.414+01:00"),
+	"variant" : "Espárrago común"
+},
+{
+	"_id" : "adtbwBF8hFxb8WXxK",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"5sfY39eGPHW5FJseA",
+			"mnSfjnffAzBSjYAqu",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Cynara acolymus",
+	"family" : "NF3wD8r4e2Tx4qx3Y",
+	"harvestTime" : {
+		"from" : NumberInt("6")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/alcachofa.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/cultivo-de-la-alcachofa_00186",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Rico en materia orgánica ++humus",
+			"_ok" : false
+		}
+	},
+	"name" : "Alcachofa",
+	"notes" : [
+		"El cultivo dura hasta 3 años, pero se recolecta a los 12 meses."
+	],
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("75"),
+		"seedDeep" : NumberInt("4")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Alcachofa común",
+	"water" : {
+		"description" : "Humedad regular, no encharcar"
+	}
+},
+{
+	"_id" : "fPy3PeYbKvKgZBKTD",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Brassica napus var. napobrassica",
+	"family" : "pKGDdJXRZTs3FpjGE",
+	"harvestTime" : {
+		"from" : NumberInt("8")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/colinabo.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecohortum.com: Cómo cosechar",
+				"url" : "http://ecohortum.com/como-cultivar-colinabo/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/como-cultivar-colinabos-en-nuestro-huerto_00359",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Bien drenado",
+			"_ok" : false
+		},
+		"ph" : {
+			"from" : 6.5,
+			"to" : 6.5
+		}
+	},
+	"name" : "Colinabo",
+	"notes" : [
+		"Evitar plantar con plantas de la misma familia",
+		"Germina a los 20-25 días."
+	],
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"spaccing" : {
+		"plantLines" : NumberInt("40")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Colinabo común",
+	"water" : {
+		"description" : "Suelo húmedo"
+	}
+},
+{
+	"_id" : "QiJCcutDqFTZL4eZR",
+	"associations" : {
+		"ok" : [
+			"XT8FzW58W4gACbwmH",
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"XJtDvWfSbP9BKELpF",
+			"PqzazyrfzRtMsCTuJ",
+			"g4Wg7QHzRiH4DdJ3H",
+			"EbiJhq93rWBw2XJw5",
+			"nGjLafpgb878LGJkS",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"C4paCBjj7aomWfr5Q"
+		],
+		"no" : [
+			"5sfY39eGPHW5FJseA",
+			"8y4tebzfgsf8CoBGE",
+			"47N6SzyB69zGPweTj",
+			"iaS4mxA94hsWavAjg",
+			"7C6fjC2v95GbbnYhq"
+		]
+	},
+	"binomial" : "Cucurbita pepo",
+	"family" : "BFc9D4uohFfhiqQbE",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/calabacin.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "infoagro.com: Cómo cosechar",
+				"url" : "http://www.infoagro.com/hortalizas/calabacin.htm",
+				"isVideo" : false,
+				"isHighlighted" : false
+			},
+			{
+				"name" : "ecoagricultor.com: El cultivo del calabacín",
+				"url" : "http://www.ecoagricultor.com/el-cultivo-del-calabacin/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "Wikipedia: Cucurbita pepo",
+				"url" : "https://es.wikipedia.org/wiki/Cucurbita_pepo",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Calabacín",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("2"),
+		"to" : NumberInt("2")
+	},
+	"spaccing" : {
+		"plant" : NumberInt("100")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Calabacín común"
+},
+{
+	"_id" : "tk6Lp4Xer3hX3Qms9",
+	"associations" : {
+		"ok" : [
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"JF2xLvjRMCfBzg6am",
+			"PqzazyrfzRtMsCTuJ",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Citrullus lanatus",
+	"family" : "BFc9D4uohFfhiqQbE",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/sandia.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/cultivo-del-melon-y-sandia-frutas-del-verano_00146",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "Wikipedia: Citrullus lanatus",
+				"url" : "https://es.wikipedia.org/wiki/Citrullus_lanatus",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Sandía",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("1"),
+		"to" : NumberInt("1")
+	},
+	"spaccing" : {
+		"plant" : NumberInt("125")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Sandía común",
+	"water" : {
+		"description" : "Poco"
+	}
+},
+{
+	"_id" : "r3CRY3m3BNDykXAMj",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"5sfY39eGPHW5FJseA"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"47N6SzyB69zGPweTj"
+		]
+	},
+	"binomial" : "Pastinaca sativa",
+	"family" : "Des9uwfQgwg4nZHBx",
+	"harvestTime" : {
+		"from" : NumberInt("10")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/chirivia.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/como-cultivar-chirivias-en-nuestro-huerto_00312",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "Wikipedia: Pastinaca sativa",
+				"url" : "https://es.wikipedia.org/wiki/Pastinaca_sativa",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Chirivia",
+	"notes" : [
+		"Germina a los 20-25 días.",
+		"Aguanta bien el frío."
+	],
+	"seedingType" : {
+		"direct" : true,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"spaccing" : {
+		"plant" : NumberInt("8")
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Chirivia común"
+},
+{
+	"_id" : "7C6fjC2v95GbbnYhq",
+	"associations" : {
+		"ok" : [
+			"XT8FzW58W4gACbwmH",
+			"QjNPigWAPk6NXfGAK",
+			"ujQJ96pGk5QcvQCKd",
+			"EZZkcziQHibvcmYP3",
+			"5sfY39eGPHW5FJseA",
+			"2oZEnN4wHDHffZ9fE",
+			"jyhmqyMemG52ETwgD",
+			"XJtDvWfSbP9BKELpF",
+			"3khbSEPzvWYkjgad9",
+			"G9FiZF2mJTAxaWvKh",
+			"7kvGTBvSBpcMqC462",
+			"rkeTK6D5tv7eg9zfQ",
+			"5WphH4YEvCJwttXEe",
+			"47N6SzyB69zGPweTj",
+			"q8QSy6a4rqBWwZosp",
+			"gogNqRuGiE6FfzYFS",
+			"g4Wg7QHzRiH4DdJ3H",
+			"Xh4pT9e4czKDiswib",
+			"RMP635NvsEmKRBKzi",
+			"SQtaAbttAgm6NMdnp",
+			"46vMpi6kMb4ZLxydG",
+			"Xi4fHfDkZrpqqNpnD",
+			"Mxytpev3yh2S6hiGG",
+			"8zZGrMsb9DjJ5fXyq"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"iaS4mxA94hsWavAjg",
+			"QiJCcutDqFTZL4eZR"
+		]
+	},
+	"binomial" : "Solanum melongena",
+	"family" : "htWxy9sP9AfMMWqyP",
+	"harvestTime" : {
+		"from" : NumberInt("7")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/berenjena.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "botanical-online.com: Cómo cosechar",
+				"url" : "http://www.botanical-online.com/berengenascultivo.htm",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "El Huerto Urbano: Variedades",
+				"url" : "https://www.elhuertourbano.net/hortalizas/variedades-de-berenjena/",
+				"isVideo" : false,
+				"isHighlighted" : false,
+				"lastChecked" : ISODate("2017-01-22T01:00:00.000+01:00")
+			},
+			{
+				"name" : "El Huerto Urbano: Cuidados",
+				"url" : "https://www.elhuertourbano.net/hortalizas/cuidados-de-la-berenjena/",
+				"isVideo" : false,
+				"isHighlighted" : false,
+				"lastChecked" : ISODate("2017-01-22T01:00:00.000+01:00")
+			},
+			{
+				"name" : "Wikipedia: Solanum melongena",
+				"url" : "https://es.wikipedia.org/wiki/Solanum_melongena",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		},
+		"ph" : {
+			"from" : 6.5,
+			"to" : 6.5
+		}
+	},
+	"name" : "Berenjena",
+	"notes" : [
+		"Tolera hasta los 45º",
+		"La temperatura ideal de germinación es de 20ºC. La humedad relativa óptima es del 50%",
+		"Transplantar cuando llega a 12 cm."
+	],
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : true,
+		"hotbed" : true,
+		"_ok" : true
+	},
+	"seedTime" : {
+		"from" : NumberInt("1"),
+		"to" : NumberInt("4")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("60")
+	},
+	"sun" : {
+		"exposition" : NumberInt("5"),
+		"description" : "De 10 a 12 horas / día"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Berenjena común",
+	"water" : {
+		"description" : "Suelo siempre húmedo"
+	}
+},
+{
+	"_id" : "4XurnefZsEZbxnpNp",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Cichorium intybus",
+	"family" : "gQup9C7uryAmzKr4t",
+	"harvestTime" : {
+		"from" : NumberInt("7")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/achicoria-comun.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "planetahuerto.es: Cómo cosechar",
+				"url" : "https://www.planetahuerto.es/revista/como-cultivar-achicoria-en-nuestro-huerto_00314",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Calcárea ++humus",
+			"_ok" : false
+		},
+		"ph" : {
+			"from" : 6.5,
+			"to" : 6.5
+		}
+	},
+	"name" : "Achicoria",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("6"),
+		"to" : NumberInt("6")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("12"),
+		"plantLines" : NumberInt("30")
+	},
+	"sun" : {
+		"description" : "Buena exposición"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Achicoria común",
+	"water" : {
+		"exposition" : 2.5,
+		"description" : "Mantener suelo húmedo"
+	}
+},
+{
+	"_id" : "C4paCBjj7aomWfr5Q",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3",
+			"CeQrm82vb6d3wTrBh",
+			"gogNqRuGiE6FfzYFS",
+			"jjzXKdBFZrGmkuNXG",
+			"iaS4mxA94hsWavAjg",
+			"Xh4pT9e4czKDiswib",
+			"QiJCcutDqFTZL4eZR",
+			"EbiJhq93rWBw2XJw5",
+			"Mxytpev3yh2S6hiGG"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE",
+			"47N6SzyB69zGPweTj"
+		]
+	},
+	"binomial" : "Ocimum basilicum",
+	"coldSupport" : NumberInt("11"),
+	"family" : "QyedutxBANG2dkd4M",
+	"harvestTime" : {
+		"from" : NumberInt("5")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/albahaca.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "ecoagricultor.com: Cómo cosechar",
+				"url" : "http://www.ecoagricultor.com/consejos-para-el-cultivo-de-la-albahaca/",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"_ok" : false
+		}
+	},
+	"name" : "Albahaca",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("3"),
+		"to" : NumberInt("3")
+	},
+	"spaccing" : {
+		"seed" : NumberInt("15")
+	},
+	"sun" : {
+		"description" : "Sol directo"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Albahaca común",
+	"water" : {
+		"description" : "Suelo húmedo. Recomendado riego por goteo"
+	}
+},
+{
+	"_id" : "XKR3EcE5qPqENRoE9",
+	"associations" : {
+		"ok" : [
+			"EZZkcziQHibvcmYP3"
+		],
+		"no" : [
+			"8y4tebzfgsf8CoBGE"
+		]
+	},
+	"binomial" : "Valeriana officinalis",
+	"family" : "ZH9wqG3KAJXbJ6Ehv",
+	"harvestTime" : {
+		"from" : NumberInt("10")
+	},
+	"highlightedImage" : "https://s3-eu-west-1.amazonaws.com/tiempodesiembra-app/seeds/valeriana.jpg",
+	"info" : {
+		"seeding" : [
+			{
+				"name" : "botanical-online.com: Cómo cosechar",
+				"url" : "http://www.botanical-online.com/valeriana-cultivo.htm",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"seed" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"harvest" : [
+			{
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		],
+		"general" : [
+			{
+				"name" : "Wikipedia: Valeriana officinalis",
+				"url" : "https://es.wikipedia.org/wiki/Valeriana_officinalis",
+				"isVideo" : false,
+				"isHighlighted" : false
+			}
+		]
+	},
+	"land" : {
+		"type" : {
+			"any" : false,
+			"preferred" : "Arenoso / arcilloso-silicios",
+			"_ok" : false
+		},
+		"ph" : {
+			"from" : 5.5,
+			"to" : NumberInt("7")
+		}
+	},
+	"name" : "Valeriana",
+	"seedingType" : {
+		"direct" : false,
+		"directProtected" : false,
+		"bed" : false,
+		"hotbed" : false,
+		"_ok" : false
+	},
+	"seedTime" : {
+		"from" : NumberInt("7"),
+		"to" : NumberInt("7")
+	},
+	"spaccing" : {
+		"plant" : NumberInt("25")
+	},
+	"sun" : {
+		"description" : "Semi sombra"
+	},
+	"updatedAt" : ISODate("2017-03-04T21:09:34.334+01:00"),
+	"variant" : "Valeriana común",
+	"water" : {
+		"description" : "Suficiente humedad"
+	}
+},
