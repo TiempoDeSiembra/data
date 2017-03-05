@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/TiempoDeSiembra/data.png?label=ready&title=Ready)](https://waffle.io/TiempoDeSiembra/data)
 # Tiempo de Siembra: datasets
 
 Este repositorio alberga todos los datos públicos de Tiempo de Siembra así como sus detalles: Cultivos, familias, pestes - son los mismos que se pueden ver de forma pública en: http://app.tiempodesiembra.es/crops
