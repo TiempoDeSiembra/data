@@ -10,3 +10,6 @@ Public collections:
 |---|---|
 |Crops|[crop.js](https://github.com/TiempoDeSiembra/app-core/blob/master/common/collections/crop.js)|
 |Crops families|[cropfamily.js](https://github.com/TiempoDeSiembra/app-core/blob/master/common/collections/cropfamily.js)|
+|Pests|[pest.js](https://github.com/TiempoDeSiembra/app-core/blob/master/common/collections/pest.js)|
+|Diseases|[disease.js](https://github.com/TiempoDeSiembra/app-core/blob/master/common/collections/disease.js)|
+|Physiopathies|[physiopathy.js](https://github.com/TiempoDeSiembra/app-core/blob/master/common/collections/physiopathy.js)|
